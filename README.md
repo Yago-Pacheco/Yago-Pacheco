@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yago Pacheco</h1>
 <h3 align="center">I am a technology lover, being my darling AI</h3>
 
-- 🔭 I’m currently working on **Tupy**
+- 🔭 I’m currently working on **Prime Results**
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, SQL, Power BI and**
 
