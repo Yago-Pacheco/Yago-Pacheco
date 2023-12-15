@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Prime Results**
 
-- 🌱 I’m currently learning **Machine learning, Deep learning, SQL, Power BI and**
+- 🌱 I’m currently learning **Machine learning, Deep learning, Python, SQL, Julia, R and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yago-Pacheco/Portifolio_YA](https://github.com/Yago-Pacheco/Portifolio_YA)
 
