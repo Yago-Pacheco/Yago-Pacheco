@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yago Pacheco</h1>
 <h3 align="center">I am a technology lover, being my darling AI</h3>
 
-- 🔭 I’m currently working on **Prime Results**
+- 🔭 I’m currently working on **ELO Group**
 
-- 🌱 I’m currently learning **Machine learning, Deep learning, Python, SQL, Julia, R and Power BI**
+- 🌱 I’m currently learning **Machine learning, Deep learning, Python, SQL, Julia, and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yago-Pacheco/Portifolio_YA](https://github.com/Yago-Pacheco/Portifolio_YA)
 
